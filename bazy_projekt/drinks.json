@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Old Fashioned",
+    "img": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+    "type": "alcoholic",
+    "glass": "Old-fashioned glass",
+    "instruction": [
+      "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water.",
+      "Muddle until dissolved.",
+      "Fill the glass with ice cubes and add whiskey.",
+      "Garnish with orange twist, and a cocktail cherry."
+    ],
+    "ingredients": {
+      "Bourbon": "4.5 cL",
+      "Angostura bitters": "2 dashes",
+      "Sugar": "1 cube",
+      "Water": "dash"
+    },
+    "score": []
+  },
+  {
+    "name": "Long Island Tea",
+    "img": "https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg",
+    "type": "alcoholic",
+    "glass": "Highball glass",
+    "instruction": [
+      "Combine all ingredients (except cola) and pour over ice in a highball glass.",
+      "Add the splash of cola for color.",
+      "Decorate with a slice of lemon and serve."
+    ],
+    "ingredients": {
+      "Vodka": "0.5 oz",
+      "Light rum": "0.5 oz",
+      "Gin": "0.5 oz",
+      "Tequila": "0.5 oz",
+      "Lemon Juice": "0.5 oz",
+      "Coca-Cola": "1 splash"
+    },
+    "score": []
+  },
+  {
+    "name": "Negroni",
+    "img": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+    "type": "alcoholic",
+    "glass": "Old-fashioned glass",
+    "instruction": [
+      "Stir into glass over ice, garnish and serve."
+    ],
+    "ingredients": {
+      "Gin": "1 oz",
+      "Campari": "1 oz",
+      "Sweet Vermouth": "1 oz"
+    },
+    "score": []
+  }
+]
